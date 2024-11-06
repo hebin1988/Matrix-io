@@ -1,5 +1,5 @@
 # 规则名称: ChinaMax
-# 规则统计: 114187
+# 规则统计: 114212
 
 no_resolve: true
 domain_set:
@@ -63,6 +63,7 @@ domain_set:
   - chaoan.chaoantv.com
   - clickserve.cc-dt.com
   - client.amplifi.com
+  - cn.download.nvidia.com
   - cn.widevine.com
   - cnpull.sccnfb.com
   - cpro.baidustatic.com
@@ -10314,6 +10315,7 @@ domain_suffix_set:
   - aliyundunddos.com
   - aliyundunwaf.com
   - aliyunedu.net
+  - aliyunfile.com
   - aliyunfuwuqi.com
   - aliyunga.com
   - aliyunga0004.com
@@ -12475,6 +12477,7 @@ domain_suffix_set:
   - bamatea.com
   - bamaying.com
   - bamboo18.com
+  - bambulab.com
   - bamengame.com
   - bamensq.com
   - bamenzhushou.com
@@ -12900,6 +12903,7 @@ domain_suffix_set:
   - bbk000.com
   - bbkantu.com
   - bbkys.com
+  - bblmw.com
   - bblskj.com
   - bbmuwwxyk.com
   - bbmy.net
@@ -13471,6 +13475,7 @@ domain_suffix_set:
   - bestpeng.com
   - bestqliang.com
   - bestreplicheitalia.com
+  - bestrhy.com
   - bestsdwan.com
   - bestshinhwa.com
   - bestsign.info
@@ -28793,6 +28798,8 @@ domain_suffix_set:
   - fenbeijinfu.com
   - fenbeitong.com
   - fenbi.com
+  - fenbike.com
+  - fenbilantian.com
   - fenbu.net
   - fenby.com
   - fencescn.com
@@ -29060,6 +29067,7 @@ domain_suffix_set:
   - filcochina.com
   - file001.com
   - filediag.com
+  - filez.com
   - filfox.info
   - fillersmart.com
   - fillseo.com
@@ -30197,6 +30205,7 @@ domain_suffix_set:
   - fxpan.com
   - fxqrf.com
   - fxsw.net
+  - fxt365.com
   - fxtrip.com
   - fxtrips.com
   - fxw.la
@@ -32348,6 +32357,7 @@ domain_suffix_set:
   - gmtv.cc
   - gmtzy.com
   - gmugmu.com
+  - gmw.com
   - gmwiki.com
   - gmxmym.ren
   - gmyihua.com
@@ -38965,6 +38975,7 @@ domain_suffix_set:
   - hnbits.com
   - hnblc.com
   - hnbljy.com
+  - hnbntv.com
   - hnbrush.com
   - hnbwsd.com
   - hnccpit.org
@@ -46855,6 +46866,7 @@ domain_suffix_set:
   - jsdzb.com
   - jseduinfo.com
   - jseepub.com
+  - jsehealth.com
   - jseoptics.com
   - jser.io
   - jsf1990.site
@@ -50883,6 +50895,7 @@ domain_suffix_set:
   - lenovo.net
   - lenovocloudos.com
   - lenovoeservice.com
+  - lenovofile.com
   - lenovogame.com
   - lenovohci.com
   - lenovohuishang.com
@@ -50891,6 +50904,7 @@ domain_suffix_set:
   - lenovomobile.com
   - lenovonetapp.com
   - lenovonowgo.com
+  - lenovopoc.com
   - lenovoprinter.com
   - lenovoprinter.net
   - lenovosj.com
@@ -54944,6 +54958,7 @@ domain_suffix_set:
   - mepcec.com
   - mepoem.com
   - meppon.com
+  - merach.com
   - mercedes-benzarena.com
   - mercitime.com
   - mereith.com
@@ -55206,6 +55221,7 @@ domain_suffix_set:
   - miaoweijianfei.com
   - miaowutech.com
   - miaoxiazai.com
+  - miaoyanai.com
   - miaoyun.link
   - miaozao.com
   - miaozhun.com
@@ -72663,6 +72679,8 @@ domain_suffix_set:
   - taicent.com
   - taichi-graphics.com
   - taichi-maker.com
+  - taichuan.com
+  - taichuan.net
   - taichyfood.com
   - taici.com
   - taicihome.com
@@ -89032,6 +89050,7 @@ domain_suffix_set:
   - yunzhizao.net
   - yunzhonghe.com
   - yunzhu100.com
+  - yunzhuxue.com
   - yunzmall.com
   - yunzongnet.com
   - yunzujia.com
@@ -97202,9 +97221,13 @@ ip_cidr_set:
   - 154.211.72.0/24
   - 154.213.4.0/23
   - 154.218.6.0/23
-  - 154.223.168.0/24
-  - 154.223.178.0/24
+  - 154.223.168.0/23
+  - 154.223.170.0/24
+  - 154.223.178.0/23
+  - 154.223.180.0/24
+  - 154.223.182.0/24
   - 154.223.188.0/23
+  - 154.223.96.0/19
   - 154.23.188.0/22
   - 154.36.92.0/23
   - 154.38.104.0/22
@@ -97260,7 +97283,7 @@ ip_cidr_set:
   - 156.237.104.0/23
   - 156.239.0.0/20
   - 156.239.224.0/19
-  - 156.239.64.0/18
+  - 156.239.96.0/19
   - 156.242.5.0/24
   - 156.242.6.0/24
   - 156.245.128.0/21
@@ -97415,6 +97438,7 @@ ip_cidr_set:
   - 160.22.244.0/23
   - 160.238.64.0/22
   - 160.25.20.0/23
+  - 160.30.148.0/24
   - 160.62.10.0/24
   - 160.83.109.0/24
   - 160.83.110.0/23
@@ -101334,15 +101358,16 @@ ip_cidr_set:
   - 45.157.70.0/23
   - 45.157.88.0/24
   - 45.192.172.0/24
-  - 45.192.184.0/24
-  - 45.192.187.0/24
+  - 45.192.184.0/22
   - 45.192.189.0/24
   - 45.192.190.0/24
+  - 45.192.64.0/19
   - 45.195.6.0/24
   - 45.199.167.0/24
   - 45.202.209.0/24
   - 45.202.210.0/23
   - 45.202.212.0/24
+  - 45.204.112.0/20
   - 45.248.128.0/21
   - 45.248.204.0/22
   - 45.248.208.0/20
@@ -112777,8 +112802,7 @@ ip_cidr6_set:
   - 2a06:9f81:5100::/40
   - 2a06:9f81:5400::/40
   - 2a06:9f81:6100::/40
-  - 2a06:9f81:641b::/48
-  - 2a06:9f81:641c::/47
+  - 2a06:9f81:641d::/48
   - 2a06:9f81:641e::/48
   - 2a06:9f81:6488::/48
   - 2a06:9f81:64a1::/48
@@ -114151,7 +114175,8 @@ ip_cidr6_set:
   - 2a14:7581:b20::/48
   - 2a14:7581:b40::/48
   - 2a14:7c0:4a01::/48
-  - 2a14:7c0:4d00::/40
+  - 2a14:7c0:4d00::/47
+  - 2a14:7c0:4d02::/48
   - 2a14:7c0:5208::/48
   - 2c0f:f7a8:8011::/48
   - 2c0f:f7a8:8050::/48
