@@ -1,5 +1,5 @@
 # 规则名称: GlobalMax
-# 规则统计: 30886
+# 规则统计: 30887
 
 no_resolve: true
 domain_set:
@@ -16681,6 +16681,7 @@ domain_suffix_set:
   - m5universities.ac.uk
   - ma.hao123.com
   - ma1lib.org
+  - maa.plus
   - mabbank.com
   - mablethorpe.ac.uk
   - mac-migs.ac.uk
