@@ -1,5 +1,5 @@
 # 规则名称: ChinaMax
-# 规则统计: 113924
+# 规则统计: 113908
 
 no_resolve: true
 domain_set:
@@ -2065,7 +2065,6 @@ domain_suffix_set:
   - 173funny.com
   - 173ie.com
   - 173ie.net
-  - 173iot.com
   - 173kan.com
   - 173kw.com
   - 173kz.com
@@ -5970,7 +5969,6 @@ domain_suffix_set:
   - 5adanci.com
   - 5adanhao.com
   - 5ag.net
-  - 5ailiwu.com
   - 5aivideo.com
   - 5aixia.com
   - 5aiyoo.com
@@ -32710,7 +32708,6 @@ domain_suffix_set:
   - gpticket.org
   - gptjike.com
   - gptkong.com
-  - gptshops.ai
   - gpubgm.com
   - gpuez.com
   - gpuztrvt.com
@@ -33031,6 +33028,7 @@ domain_suffix_set:
   - gtpso.com
   - gtqtiad.work
   - gtqzg.com
+  - gtradedata.com
   - gtrukxeo.com
   - gts.work
   - gtsnzp.com
@@ -33456,7 +33454,6 @@ domain_suffix_set:
   - guotailiangyou.com
   - guotv.com
   - guowaidiaocha.com
-  - guowaitianqi.com
   - guoweitong.com
   - guowenfh.com
   - guowuwushu.com
@@ -38041,7 +38038,6 @@ domain_suffix_set:
   - heyuanstone.com
   - heyun100.com
   - heyunnet.com
-  - heyuyhw.com
   - heywhale.com
   - heywoodsminiprogram.com
   - heyyouyu.com
@@ -38162,6 +38158,7 @@ domain_suffix_set:
   - hgobox.com
   - hgptech.com
   - hgqrx.com
+  - hgsj.com
   - hgskyray.com
   - hgszyyy.com
   - hguduo.com
@@ -38290,7 +38287,6 @@ domain_suffix_set:
   - hicat.net
   - hiccupx.xyz
   - hiceon.com
-  - hichao.com
   - hicheng.net
   - hichina.com
   - hichina.net
@@ -38585,7 +38581,6 @@ domain_suffix_set:
   - hk515.net
   - hk8668.com
   - hkaco.com
-  - hkaik.com
   - hkaima.com
   - hkance.com
   - hkance.xyz
@@ -49083,7 +49078,6 @@ domain_suffix_set:
   - kst100.com
   - kstao.com
   - kstnjscl.com
-  - kstore.space
   - kstv.com
   - ksudi.com
   - ksupdate.com
@@ -49535,7 +49529,6 @@ domain_suffix_set:
   - kv-kva.com
   - kv6om4zs5i47.com
   - kvamerfx.com
-  - kvegg.com
   - kvenjoy.com
   - kvfumdr.com
   - kviso.com
@@ -53063,7 +53056,6 @@ domain_suffix_set:
   - lwcj.com
   - lwd3699.com
   - lwdjc.com
-  - lweasy.com
   - lwebapp.com
   - lwfengji.net
   - lwfjmj.com
@@ -53173,7 +53165,6 @@ domain_suffix_set:
   - lybus.com
   - lycdw.com
   - lycheer.net
-  - lyclhy.com
   - lyd-china.com
   - lyd6688.com
   - lydaas.com
@@ -55003,7 +54994,6 @@ domain_suffix_set:
   - miaoshou.com
   - miaoshou.net
   - miaoshoucdn.com
-  - miaoshu5.cc
   - miaoshuwu.com
   - miaoshuzhai.net
   - miaoso.com
@@ -56128,7 +56118,6 @@ domain_suffix_set:
   - movesky.net
   - moviemore.com
   - moviereviewtoday.com
-  - movietickest.com
   - movit-tech.com
   - mowan123.com
   - moweather.com
@@ -57971,7 +57960,6 @@ domain_suffix_set:
   - niwodai.net
   - niwoxuexi.com
   - nixi.win
-  - nixiba.com
   - nixingtao.com
   - nixwang.com
   - nizhan888.com
@@ -63346,7 +63334,6 @@ domain_suffix_set:
   - qmniu.com
   - qmoji.mobi
   - qmoji.net
-  - qmoyouxi.com
   - qmqm.net
   - qmrobot.com
   - qmsea.com
@@ -71782,7 +71769,6 @@ domain_suffix_set:
   - systoon.com
   - sysush.com
   - sysutest.xyz
-  - sysuyz.com
   - sysx.tech
   - sysxhz.com
   - sysyhfj.com
@@ -75527,7 +75513,6 @@ domain_suffix_set:
   - twatchmall.com
   - twd2.me
   - twd2.net
-  - twdfr9o1.xyz
   - twdxdl.com
   - tweakcube.com
   - twheixiong.com
@@ -77540,7 +77525,6 @@ domain_suffix_set:
   - vpsor.com
   - vpsplayer.com
   - vpspurchase.com
-  - vpsrb.com
   - vpssir.com
   - vpsss.net
   - vpssw.com
@@ -80694,7 +80678,6 @@ domain_suffix_set:
   - wufafuwu.com
   - wufangzhai.com
   - wufazhuce.com
-  - wufuba.com
   - wufun.net
   - wufunb.com
   - wugongdong.com
@@ -81202,7 +81185,6 @@ domain_suffix_set:
   - wyxzxyjhyy.com
   - wyydsb.xin
   - wyzc.com
-  - wyzdg.com
   - wyzhifu.com
   - wyzxsd.com
   - wyzyz.org
@@ -83732,7 +83714,6 @@ domain_suffix_set:
   - xmjslh.com
   - xmjyw.com
   - xmkanshu.com
-  - xml-data.org
   - xml-journal.net
   - xmldz4.com
   - xmlhifi.com
@@ -86648,7 +86629,6 @@ domain_suffix_set:
   - yixiaoyuan.com
   - yixiaozu.com
   - yixiatong.com
-  - yixie8.com
   - yixiekeji.com
   - yixieshi.com
   - yixiin.com
@@ -90246,7 +90226,6 @@ domain_suffix_set:
   - zhaoqiufa.com
   - zhaoqt.net
   - zhaoquanwang.vip
-  - zhaosecha.com
   - zhaoshang.net
   - zhaoshang100.com
   - zhaoshang800.com
@@ -96942,8 +96921,7 @@ ip_cidr_set:
   - 156.236.96.0/23
   - 156.237.104.0/23
   - 156.239.0.0/20
-  - 156.239.224.0/19
-  - 156.239.96.0/19
+  - 156.239.64.0/18
   - 156.242.5.0/24
   - 156.242.6.0/24
   - 156.245.128.0/21
@@ -99196,6 +99174,7 @@ ip_cidr_set:
   - 208.56.30.224/27
   - 208.56.53.0/24
   - 208.71.212.0/22
+  - 208.76.69.0/24
   - 208.81.118.0/23
   - 209.11.242.0/23
   - 209.146.7.0/24
@@ -101020,7 +100999,7 @@ ip_cidr_set:
   - 45.152.24.0/22
   - 45.153.128.0/22
   - 45.154.244.0/24
-  - 45.157.70.0/23
+  - 45.157.70.0/24
   - 45.157.88.0/24
   - 45.192.172.0/24
   - 45.192.184.0/24
@@ -110555,7 +110534,7 @@ ip_cidr6_set:
   - 2404:2280:10f::/48
   - 2404:2280:112::/47
   - 2404:2280:115::/48
-  - 2404:2280:116::/48
+  - 2404:2280:116::/47
   - 2404:2280:11a::/47
   - 2404:2280:11c::/46
   - 2404:2280:123::/48
@@ -110576,6 +110555,7 @@ ip_cidr6_set:
   - 2404:2280:158::/46
   - 2404:2280:15c::/47
   - 2404:2280:15f::/48
+  - 2404:2280:160::/48
   - 2404:2280:177::/48
   - 2404:2280:181::/48
   - 2404:2280:183::/48
@@ -111465,7 +111445,7 @@ ip_cidr6_set:
   - 2406:840:e340::/42
   - 2406:840:e380::/41
   - 2406:840:e400::/40
-  - 2406:840:e501::/48
+  - 2406:840:e500::/47
   - 2406:840:e510::/44
   - 2406:840:e520::/43
   - 2406:840:e540::/42
@@ -113614,6 +113594,7 @@ ip_cidr6_set:
   - 2a0b:b581::/48
   - 2a0b:b582::/48
   - 2a0b:b583::/48
+  - 2a0b:b87:ffb5::/48
   - 2a0c:3b80:434e::/48
   - 2a0c:3b80:636e::/48
   - 2a0c:9a40:95bf:7000::/54
@@ -113743,7 +113724,7 @@ ip_cidr6_set:
   - 2a0e:ec05:79c0::/42
   - 2a0e:ec05:7a00::/40
   - 2a0e:ec05:7b00::/42
-  - 2a0f:5707:ac01::/48
+  - 2a0f:5707:ac00::/47
   - 2a0f:7803:dd00::/42
   - 2a0f:7803:e300::/41
   - 2a0f:7803:f680::/43
@@ -113775,6 +113756,8 @@ ip_cidr6_set:
   - 2a0f:7803:ff02:8000::/50
   - 2a0f:7803:ff10:2000::/51
   - 2a0f:7804:da00::/40
+  - 2a0f:7804:f650::/44
+  - 2a0f:7804:f9f0::/44
   - 2a0f:85c1:816::/48
   - 2a0f:85c1:89a::/48
   - 2a0f:9400:7700::/48
@@ -113862,6 +113845,7 @@ ip_cidr6_set:
   - 2a13:a5c7:2116::/47
   - 2a13:a5c7:2118::/47
   - 2a13:a5c7:2200::/39
+  - 2a13:a5c7:2600::/40
   - 2a13:aac4::/32
   - 2a13:b487:1b86::/47
   - 2a13:b487:1b88::/47
